@@ -1,0 +1,14 @@
+{
+  "api_key": "YOUR_BINANCE_API_KEY_HERE",
+  "api_secret": "YOUR_BINANCE_SECRET_HERE",
+  "testnet": true,
+  "symbols": ["BTCUSDT", "ETHUSDT"],
+  "check_interval_minutes": 5,
+  "risk_per_trade_usd": 0.5,
+  "max_leverage": 20,
+  "telegram_notifications": {
+    "enabled": false,
+    "bot_token": "",
+    "chat_id": ""
+  }
+}
